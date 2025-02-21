@@ -17,7 +17,7 @@ A native Android application built using **Kotlin**, **Jetpack Compose**, and **
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/3d-model-viewer.git](https://github.com/AdrianIkeaba/r3dy.git
+   git clone https://github.com/AdrianIkeaba/r3dy.git
    cd r3dy
    ```
 2. Open the project in **Android Studio**.
